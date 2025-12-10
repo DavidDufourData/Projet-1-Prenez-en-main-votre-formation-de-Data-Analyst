@@ -1,34 +1,27 @@
-📁 README – Projet 1 : Prenez en main votre formation de Data Analyst
-Contexte et objectifs
+# Prenez en main votre formation de Data Analyst
 
-Ce premier projet constitue une mise en route du parcours.
-L’objectif est d’adopter une organisation de travail efficace, de comprendre les attentes du métier de Data Analyst et de structurer un plan d’apprentissage cohérent pour la suite du programme.
-Il s’agit également de se familiariser avec les outils pédagogiques utilisés pendant la formation.
+## Contexte et objectifs
 
-Soft Skills
+Ce premier projet introduit les fondamentaux du parcours Data Analyst.  
+L’objectif est de structurer son organisation, comprendre les attentes de la formation et adopter une posture professionnelle dès le départ.
 
-Structurer son apprentissage et sa progression
+## Soft Skills
+- Développer une autonomie dans l’apprentissage  
+- Structurer son organisation personnelle  
+- Comprendre les attentes du métier de Data Analyst  
+- Poser les bases d’une communication professionnelle  
 
-Développer une autonomie et une posture professionnelle
+## Compétences
+- Identifier les compétences clés du métier  
+- Définir un plan d’apprentissage cohérent  
+- Prendre en main les outils pédagogiques  
+- Mettre en place une méthodologie de travail efficace  
 
-Comprendre les enjeux et missions du métier
+## Outils utilisés
+- Google Drive  
+- OpenClassrooms  
+- Outils de planification (Notion, Trello...)
 
-Gérer efficacement son planning de formation
+## 
+> Attention ! Ce projet a été réalisé dans le cadre de la formation "Data Analyst" avec l’organisme OpenClassrooms.
 
-Compétences
-
-Identifier les compétences clés à acquérir
-
-Définir une feuille de route d’apprentissage
-
-Mettre en place une organisation méthodologique
-
-Utiliser les outils pédagogiques avec fluidité
-
-Outils utilisés
-
-Google Drive
-
-OpenClassrooms
-
-Outils de planification (Notion, Trello…)
